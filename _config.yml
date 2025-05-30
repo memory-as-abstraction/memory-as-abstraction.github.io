@@ -1,0 +1,3 @@
+theme: jekyll-theme-slate
+title: Memory as state abstraction over trajectories
+descripion: Viewing memory as a state abstraction over trajectories helps classify POMDPs
